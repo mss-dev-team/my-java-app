@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Assalamu alaikum Khadija Fatima</h2>
+			<h2>Aapka Humnasheen</h2>
 			<h3>Contact @ +91 8106714352</h3>
 		</div>	
 	</div>
