@@ -14,7 +14,7 @@ public class HelloWorldService {
 
 		logger.debug("getDesc() is executed!");
 
-		return "Git, GitHub, Maven, CICD, Jenkins, Docker, Kubernetes, Terraform, ArgoCD and Amazon Web Services";
+		return "Meri Jaan, Mera Dill, Mera Aks, Meri Mohabbat";
 
 	}
 
@@ -25,7 +25,7 @@ public class HelloWorldService {
 		if(StringUtils.isEmpty(name)){
 			return "Assalamu alaikum";
 		}else{
-			return "Hello " + name;
+			return "O " + name;
 		}
 		
 	}
